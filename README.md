@@ -1,4 +1,6 @@
 # PacMen-Factory
+
+<img src = "https://raw.githubusercontent.com/smolTypo/PacMen-Factory/147852e278f34b0a25c2eedbf0e835fe728c0946/images/PacMan1.png" width='200'/>
 This is an exercise developed during MIT xPro Professional Certificate in Coding: Full Stack Development with MERN. Our task in this activity is to create a pacman on demand (button click) and move these pacmen across the page
 
 

@@ -10,7 +10,9 @@ Demo: https://smoltypo.github.io/PacMen-Factory/
 
 ## About:
 
-In this exercise we used JavaScript to the move the PacMan across the screen and to animate the character, stimulating the chomping movement whilst it moves across the screen.
+In this exercise we used JavaScript to the move the PacMan across the screen and to animate the character, simulating the chomping movement whilst it moves across the screen. This was done by looping over arrays of images and changing the image on the page to simulate Pacman movements by cycling through the images in the array. 
+
+The second element to this exercise is to change direction of the PacMan by detecting when the PacMan element has reached the edge of the screen. This was done by checking the x and y coordinates of the PacMan element. If the coordinates are equal to the width or height of the screen, then PacMan has reached the edge and needs to change direction. 
 
 ## Here's how the game is played:
 
